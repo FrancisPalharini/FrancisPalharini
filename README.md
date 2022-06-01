@@ -8,10 +8,24 @@
  
 </div>
 
-##
-
-Sou a Francis Palharini!
+## Sou a Francis Palharini!
 
 - 🔧 Software Developer (DBA).
 - ⚡ Apaixonada por Hary Potter
 
+<div>
+  
+  ### Estou aprendendo
+
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+
+
+
+
+
+</div>
