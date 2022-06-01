@@ -10,12 +10,13 @@
 
 ## Sou a Francis Palharini!
 
-- 🔧 Software Developer (DBA).
+- 🔧 Software Developer (DBA)
 - ⚡ Apaixonada por Hary Potter
+- ⌛ Organizada e comunicadora
 
 <div>
   
-  ### Estou aprendendo
+  ## Estou aprendendo
 
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
